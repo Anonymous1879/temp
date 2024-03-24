@@ -1,0 +1,48 @@
+
+Invoice for jack:
+
+Land ID: 108
+========================================
+TechnoPropertyNepal
+Land Rental Invoice
+========================================
+Customer Name: jack
+Kitta Number: 108
+City:  Janakpur
+Direction:  West
+Date and Time: 2024-03-24 21:31:56
+========================================
+Duration of Rent: 3 months
+Individual Rent Price per Month: NPR 95000.0
+Start Date: 2024-03-24
+End Date: 2024-06-22
+========================================
+Fine Amount: NPR 28500.0
+Total Amount: NPR 28500.0
+========================================
+Thank you for your business!
+========================================
+
+
+Land ID: 109
+========================================
+TechnoPropertyNepal
+Land Rental Invoice
+========================================
+Customer Name: jack
+Kitta Number: 109
+City:  Hetauda
+Direction:  North
+Date and Time: 2024-03-24 21:31:56
+========================================
+Duration of Rent: 4 months
+Individual Rent Price per Month: NPR 110000.0
+Start Date: 2024-03-24
+End Date: 2024-07-22
+========================================
+Fine Amount: NPR 44000.0
+Total Amount: NPR 44000.0
+========================================
+Thank you for your business!
+========================================
+

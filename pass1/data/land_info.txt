@@ -1,0 +1,10 @@
+101, Kathmandu, North,4.0,50000.0,Available
+102, Pokhara, East,5.0,60000.0,Available
+103, Lalitpur, South,10.0,100000.0,Available
+104, Bhaktapur, West,8.0,80000.0,Available
+105, Birgunj, North,6.0,70000.0,Available
+106, Butwal, East,7.0,90000.0,Available
+107, Dharan, South,12.0,120000.0, Available
+108, Janakpur, West,9.0,95000.0,Available
+109, Hetauda, North,11.0,110000.0,Available
+110, Biratnagar, East,13.0,130000.0, Not Available

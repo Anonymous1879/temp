@@ -1,0 +1,25 @@
+
+Invoice for brook:
+
+Land ID: 101
+========================================
+TechnoPropertyNepal
+Land Rental Invoice
+========================================
+Customer Name: brook
+Kitta Number: 101
+City:  Kathmandu
+Direction:  North
+Date and Time: 2024-03-24 21:31:22
+========================================
+Duration of Rent: 2 months
+Individual Rent Price per Month: NPR 50000.0
+Start Date: 2024-03-24
+End Date: 2024-05-23
+========================================
+Fine Amount: NPR 0
+Total Amount: NPR 100000.0
+========================================
+Thank you for your business!
+========================================
+

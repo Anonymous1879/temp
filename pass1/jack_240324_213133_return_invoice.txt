@@ -1,0 +1,25 @@
+
+Invoice for jack:
+
+Land ID: 101
+========================================
+TechnoPropertyNepal
+Land Rental Invoice
+========================================
+Customer Name: jack
+Kitta Number: 101
+City:  Kathmandu
+Direction:  North
+Date and Time: 2024-03-24 21:31:33
+========================================
+Duration of Rent: 4 months
+Individual Rent Price per Month: NPR 50000.0
+Start Date: 2024-03-24
+End Date: 2024-07-22
+========================================
+Fine Amount: NPR 10000.0
+Total Amount: NPR 110000.0
+========================================
+Thank you for your business!
+========================================
+
